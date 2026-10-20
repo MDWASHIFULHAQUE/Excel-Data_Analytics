@@ -74,7 +74,7 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+![1_Salary_Dashboard_Screenshot1.png](00_Resources/4_median_salary.png)
 
 📉 Dashboard Implementation
 
