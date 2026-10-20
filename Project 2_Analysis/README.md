@@ -50,7 +50,7 @@ It includes detailed information on:
 - Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
     - 📊 data_jobs_all
 
-        ![00_Resources](/0_Resources/Images/2.1_Project_Analysis_1.png)
+        ![Project_Analysis_1](/00_Resources/2.1_Project_Analysis_1.png)
 
     - 🛠️ data_job_skills
 
