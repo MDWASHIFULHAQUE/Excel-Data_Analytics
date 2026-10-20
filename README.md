@@ -91,7 +91,7 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![1_Salary_Dashboard_Type.png](00_Resources/6_job_title_short.png)
 
 📉 Dashboard Implementation:
 
