@@ -95,7 +95,7 @@ IF(
 
 📉 Dashboard Implementation:
 
-<img src="00_Resources/5_job_title_median_salary.png">
+<img src=00_Resources/7_Type_job_count.png>
 
 ### ❎ Data Validation
 
