@@ -61,11 +61,11 @@ It includes detailed information on:
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
     - 📊 data_jobs_all
 
-        ![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)
+        ![Project_Analysis_3](/00_Resources/2.3_Project_Analysis_3.png)
 
     - 🛠️ data_job_skills
 
-        ![2_Project_Analysis_Screenshot4.png](/0_Resources/Images/2_Project_Analysis_Screenshot4.png)
+        ![Project_Analysis_4](/00_Resources/2.4_Project_Analysis_4.png)
 
 ### 📊 Analysis
 
@@ -74,7 +74,7 @@ It includes detailed information on:
 - 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
 - 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
-    ![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
+    ![Project_Analysis_Chart_5](/00_Resources/2.5_Project_Analysis_Chart_5.png)
 
 #### 🤔 So What
 
@@ -110,7 +110,7 @@ It includes detailed information on:
 - 💼 Job roles like Senior Data Engineer and Data Scientist command higher median salaries both in the US and internationally, showcasing the global demand for high-level data expertise.
 - 💰 The salary disparity between US and Non-US roles is particularly notable in high-tech jobs, which might be influenced by the concentration of tech industries in the US.
 
-    ![2_Project_Analysis_Chart2.png](/0_Resources/Images/2_Project_Analysis_Chart2.png)
+    ![Project_Analysis_Chart_6](/00_Resources/2.6_Project_Analysis_Chart_6.png)
 
 #### **🤔 So What**
 
@@ -129,13 +129,13 @@ It includes detailed information on:
 
 - I created a relationship between my two tables using the `job_id` column.
 
-    ![2_Project_Analysis_Screenshot5.png](/0_Resources/Images/2_Project_Analysis_Screenshot5.png)
+    ![Project_Analysis_7](/00_Resources/2.7_Project_Analysis_7.png)
 
 #### 📃 Power Pivot Menu
 
 - The Power Pivot menu was used to refine my data model and makes it easy to create measures.
 
-    ![2_Project_Analysis_Screenshot6.png](/0_Resources/Images/2_Project_Analysis_Screenshot6.png)
+    ![Project_Analysis_8](/00_Resources/2.8_Project_Analysis_8.png)
 
 ### 📊Analysis
 
@@ -144,7 +144,7 @@ It includes detailed information on:
 - 💻 SQL and Python dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis.
 - ☁️ Emerging technologies like AWS and Azure also show significant presence, underlining the industry's shift towards cloud services and big data technologies.
 
-    ![2_Project_Analysis_Chart3.png](/0_Resources/Images/2_Project_Analysis_Chart3.png)
+    ![Project_Analysis_Chart_9](/00_Resources/2.9_Project_Analysis_Chart_9.png)
 
 #### 🤔So What
 
