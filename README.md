@@ -78,7 +78,7 @@ IF(
 
 📉 Dashboard Implementation
 
-<img src=00_Resources/5_job_title_median_salary.png)
+<img src=00_Resources/2_bar_chart.png>
 
 #### ⏰ Count of Job Schedule Type
 
